@@ -1,0 +1,22 @@
+.timer {
+	display: flex;
+}
+.field {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	padding: 5px;
+}
+.label {
+	text-transform: uppercase;
+}
+.value {
+	font-size: 35px;
+}
+input {
+	padding: 5px;
+}
+button {
+	padding: 5px 10px;
+}
